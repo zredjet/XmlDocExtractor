@@ -1,0 +1,30 @@
+# ビルド出力
+bin/
+obj/
+
+# ユーザー固有の設定ファイル
+.vscode/
+
+# NuGet パッケージ
+*.nupkg
+packages/
+
+# 一時ファイル
+*.tmp
+*.temp
+*.log
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# その他
+*.DS_Store
+Thumbs.db
